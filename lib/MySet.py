@@ -27,13 +27,3 @@ class MySet:
 
     def clear(self):
         self.dictionary.clear()
-
-# new_set = MySet([1,2,3,4,5,5,6,7,-1])
-# new_set.add(10)
-# print(new_set)
-# new_set.delete(2)
-# print(new_set.size())
-# new_set.delete(10)
-# new_set.delete(1)
-# print(new_set.has(-1))
-# print(new_set)
